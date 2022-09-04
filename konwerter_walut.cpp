@@ -1,10 +1,9 @@
-﻿/* Design and implement classes for a currency calculator */
+/* Design and implement classes for a currency calculator */
 /*
 Kalkulator opiera sie na pobieraniu waluty wejsciowej oraz tej, na ktora chcemy zmienic nasza kwote pieniedzy. W przypadku wpisania niewlasciwych parametrow, nastapi poproszenie o ponowne ich wprowadzenie.
 Kursy walut ujete sa w kontenerze, z ktorych wylacznie pobieramy wartosc przy pozniejszym obliczaniu.
 Metoda klasy na obliczanie pieniedzy opiera sie na funkcji isdigit, do ochrony programu przed niepoprawnym wpisaniem liter w miejscu cyfr.
-
-//Dokumentacja: https://docs.google.com/document/d/1uuUHLQ9v08SPdxXDhtPf5cp2Jynke_qo/edit#
+//Autorzy Piotr Podkówka i Kacper Czepiec
 */
 #include <iostream> 
 #include <string>
